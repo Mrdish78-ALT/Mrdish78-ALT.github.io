@@ -1,1 +1,1 @@
-Head here for Unblocked Games! I'm working on my html while coding a game site!
+Oops! It doesn't look like you should be here right now. Click the link to go home!
