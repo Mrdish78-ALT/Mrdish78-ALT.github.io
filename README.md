@@ -2,5 +2,5 @@ Oops! It doesn't look like you should be here right now. Click the link to go ho
 
 
 <body style = "background-color:powderblue">
-  <a href = "https://unblocked-math.github.io">Unblocked-Math.</a>
+  <a href="https://example.com">Go to Example</a>
 </body>
